@@ -1,0 +1,2 @@
+# DemoDBFirstUsingEntityFrameworkAndRepositoryPattern
+Demo about DBFirst Using Entity Framework And Repository Pattern
